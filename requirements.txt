@@ -1,3 +1,5 @@
 aiohttp==3.10.10
 beautifulsoup4==4.12.3
 python-slugify==8.0.4
+xmltodict==0.14.2
+python-slugify==8.0.4
